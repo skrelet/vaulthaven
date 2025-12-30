@@ -1,7 +1,18 @@
 {
-  "name": "Docs Test",
-  "description": "My documentation site",
+
+  "name": "## VaultHaven",
+  "description": "vaulthaven",
+  "theme": {
+    "primary": "#222"
+  },
+
+
+
+
   "sidebar": [
+
+
+
   {
     "group": "Getting Started",
     "pages": [
@@ -17,5 +28,9 @@
       }
     ]
   }
+
+
+
 ]
+
 }
