@@ -23,27 +23,27 @@
       },
       {
         "title": "Öppna Kassa",
-        "href": "/next-steps",
+        "href": "/oppna-kassa",
         "icon": "fa-circle-arrow-right"
       },
       {
         "title": "Köp",
-        "href": "/next-steps",
+        "href": "/kop",
         "icon": "fa-circle-arrow-right"
       },
             {
         "title": "Återköp",
-        "href": "/next-steps",
+        "href": "/aterkop",
         "icon": "fa-circle-arrow-right"
       },
             {
         "title": "Stänga Kassa",
-        "href": "/next-steps",
+        "href": "/stanga-kassa",
         "icon": "fa-circle-arrow-right"
       },
             {
         "title": "Rapporter",
-        "href": "/next-steps",
+        "href": "/rapporter",
         "icon": "fa-circle-arrow-right"
       }
     ]
