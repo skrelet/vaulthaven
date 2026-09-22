@@ -14,14 +14,34 @@
 
 
   {
-    "group": "# Getting Started",
+    "group": "Kom i gång",
     "pages": [
       {
-        "title": "Getting to know docs.page",
+        "title": "Funktioner",
         "href": "/",
-        "icon": "rocket"
+        "icon": "fa-circle-arrow-right"
       },
       {
+        "title": "Next Steps",
+        "href": "/next-steps",
+        "icon": "arrow-right"
+      },
+      {
+        "title": "Next Steps",
+        "href": "/next-steps",
+        "icon": "arrow-right"
+      },
+            {
+        "title": "Next Steps",
+        "href": "/next-steps",
+        "icon": "arrow-right"
+      },
+            {
+        "title": "Next Steps",
+        "href": "/next-steps",
+        "icon": "arrow-right"
+      },
+            {
         "title": "Next Steps",
         "href": "/next-steps",
         "icon": "arrow-right"
