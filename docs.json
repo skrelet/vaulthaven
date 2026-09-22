@@ -19,35 +19,82 @@
       {
         "title": "Funktioner",
         "href": "/",
-        "icon": "arrow-right"
-      },
-      {
-        "title": "Next Steps",
-        "href": "/next-steps",
         "icon": "fa-circle-arrow-right"
       },
       {
-        "title": "Next Steps",
+        "title": "Öppna Kassa",
+        "href": "/next-steps",
+        "icon": "fa-circle-arrow-right"
+      },
+      {
+        "title": "Köp",
         "href": "/next-steps",
         "icon": "fa-circle-arrow-right"
       },
             {
-        "title": "Next Steps",
+        "title": "Återköp",
         "href": "/next-steps",
         "icon": "fa-circle-arrow-right"
       },
             {
-        "title": "Next Steps",
+        "title": "Stänga Kassa",
         "href": "/next-steps",
         "icon": "fa-circle-arrow-right"
       },
             {
-        "title": "Next Steps",
+        "title": "Rapporter",
         "href": "/next-steps",
         "icon": "fa-circle-arrow-right"
       }
     ]
   }
+
+    
+    
+  {
+    "group": "Betalningsmetoder",
+    "pages": [
+      {
+        "title": "Kort",
+        "href": "/",
+        "icon": "fa-circle-arrow-right"
+      },
+            {
+        "title": "Kontant",
+        "href": "/",
+        "icon": "fa-circle-arrow-right"
+      },
+            {
+        "title": "Swish",
+        "href": "/",
+        "icon": "fa-circle-arrow-right"
+      },      {
+        "title": "Faktura",
+        "href": "/",
+        "icon": "fa-circle-arrow-right"
+      },
+            {
+        "title": "Tillgodokvitto",
+        "href": "/",
+        "icon": "fa-circle-arrow-right"
+      },
+            {
+        "title": "Presentkort",
+        "href": "/",
+        "icon": "fa-circle-arrow-right"
+      },
+            {
+        "title": "Rabatter & Kampanjer",
+        "href": "/",
+        "icon": "fa-circle-arrow-right"
+      }
+    ]
+  }
+
+
+
+
+    
 
 
 
